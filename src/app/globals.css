@@ -342,7 +342,7 @@ summary:focus-visible {
 }
 
 .bg-\[linear-gradient\(180deg\,\#061124_0\%\,\#0a1830_42\%\,\#fbf5ed_42\%\,\#fff8f1_100\%\)\] {
-    background-image: linear-gradient(#061124 0%, #0a1830 42%, #071f4f 42%, #e1d8c2 100%);
+    background-image: linear-gradient(#061124 0%, #0a1830 42%, #4c5e85 42%, #242d53 100%);
 }
 
 @keyframes cinematic-drift {
