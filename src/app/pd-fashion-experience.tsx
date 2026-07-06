@@ -480,7 +480,7 @@ export default function PDFashionExperience() {
         <div className="hero-camera absolute inset-0 will-change-transform">
           <video autoPlay muted loop playsInline id="hero-video" className="absolute inset-0 h-full w-full object-cover">
             <source
-              src="/videos/santa-elephant.mp4"
+              src="/videos/santa-slowmo.mp4"
               type="video/mp4"
             />
           </video>
