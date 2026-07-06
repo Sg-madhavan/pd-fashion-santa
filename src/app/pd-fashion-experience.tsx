@@ -870,7 +870,7 @@ export default function PDFashionExperience() {
               <a href="https://instagram.com" target="_blank" rel="noreferrer" className="grid h-12 w-12 place-items-center rounded-full border border-white/12 bg-white/8 hover:bg-white/14" aria-label="Instagram"><Camera className="h-5 w-5" /></a>
               <a href="mailto:hello@pdfashiongifts.com" className="grid h-12 w-12 place-items-center rounded-full border border-white/12 bg-white/8 hover:bg-white/14" aria-label="Email"><Mail className="h-5 w-5" /></a>
             </div>
-            <p className="mt-8 text-sm text-white/42">© {new Date().getFullYear()} PD Fashion. Crafted for personalized celebrations.</p>
+            <p className="mt-8 text-sm text-white/42">© {new Date().getFullYear()} PD Fashion. Crafted with ❤️ by Noob-Devs</p>
           </div>
         </div>
       </footer>
